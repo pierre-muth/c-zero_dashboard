@@ -5,4 +5,6 @@ Blog post : https://pierremuth.wordpress.com/2022/07/24/electric-car-battery-das
 
 ![picture](image2.jpg)
 
-[![Youtube video](https://img.youtube.com/vi/8D-sL3GoFZM/0.jpg)](https://www.youtube.com/watch?v=8D-sL3GoFZM)
+[![Youtube video](https://img.youtube.com/vi/ng3ovxGFdM4/0.jpg)](https://www.youtube.com/watch?v=ng3ovxGFdM4)
+
+
